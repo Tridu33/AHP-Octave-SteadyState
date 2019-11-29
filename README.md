@@ -15,7 +15,7 @@ AHP里面调用，然后进行总排序的矩阵计算就行。
 
 
 
-<video src="C:\Users\admin\Desktop\hush\！大四业\系统工程\AHP+稳态之我见\AHP(Octave)+SteadyState\AHP-Octave-SteadyState\SteadyState.mp4"></video>
+<video src=".\SteadyState.mp4"></video>
 
 
 
