@@ -1,7 +1,8 @@
 # AHP-Octave-SteadyState
 AHP(Octave)+SteadyState
+https://www.bilibili.com/video/BV1gJ411Q7uY/
 
-基于Octave的AHP工具包和稳态三法
+基于Octave的AHP(层次分析法)实现和稳态三法讲解
 
 Data.m输入待求解的矩阵
 
